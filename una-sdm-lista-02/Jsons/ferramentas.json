@@ -1,0 +1,20 @@
+{
+  "deposito": "Depósito Central",
+  "localizacao": "Belo Horizonte",
+  "ferramentas": [
+    {
+      "id": 1,
+      "nome": "Martelo",
+      "marca": "Tramontina",
+      "quantidade": 50,
+      "preco": 29.90
+    },
+    {
+      "id": 2,
+      "nome": "Chave de Fenda",
+      "marca": "Vonder",
+      "quantidade": 30,
+      "preco": 19.90
+    }
+  ]
+}

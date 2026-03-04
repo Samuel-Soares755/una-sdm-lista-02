@@ -1,0 +1,18 @@
+{
+  "nome": "Shopping Cidade",
+  "cidade": "Belo Horizonte",
+  "lojas": [
+    {
+      "id": 1,
+      "nome": "Renner",
+      "categoria": "Roupas",
+      "andar": 2
+    },
+    {
+      "id": 2,
+      "nome": "Americanas",
+      "categoria": "Variedades",
+      "andar": 1
+    }
+  ]
+}

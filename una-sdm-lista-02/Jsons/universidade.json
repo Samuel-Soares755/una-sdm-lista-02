@@ -1,0 +1,18 @@
+{
+  "nome": "Centro Universitário UNA",
+  "cidade": "Belo Horizonte",
+  "cursos": [
+    {
+      "id": 1,
+      "nome": "Sistemas de Informação",
+      "duracao": "4 anos",
+      "turno": "Noturno"
+    },
+    {
+      "id": 2,
+      "nome": "Engenharia Civil",
+      "duracao": "5 anos",
+      "turno": "Diurno"
+    }
+  ]
+}

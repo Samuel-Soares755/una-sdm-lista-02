@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "una-sdm-lista-02", "una-sdm-lista-02\una-sdm-lista-02.csproj", "{394BD569-5308-F99D-64A4-99D58706C918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{394BD569-5308-F99D-64A4-99D58706C918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394BD569-5308-F99D-64A4-99D58706C918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394BD569-5308-F99D-64A4-99D58706C918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394BD569-5308-F99D-64A4-99D58706C918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CC42E10-6330-4B7C-AF0F-3556C7B663F0}
+	EndGlobalSection
+EndGlobal

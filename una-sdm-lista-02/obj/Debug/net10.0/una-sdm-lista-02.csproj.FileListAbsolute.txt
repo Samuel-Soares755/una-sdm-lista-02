@@ -1,0 +1,4 @@
+C:\Users\samu1\OneDrive\Documentos\Atividade 2 Una\una-sdm-lista-02\obj\Debug\net10.0\una-sdm-lista-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samu1\OneDrive\Documentos\Atividade 2 Una\una-sdm-lista-02\obj\Debug\net10.0\una-sdm-lista-02.AssemblyInfoInputs.cache
+C:\Users\samu1\OneDrive\Documentos\Atividade 2 Una\una-sdm-lista-02\obj\Debug\net10.0\una-sdm-lista-02.AssemblyInfo.cs
+C:\Users\samu1\OneDrive\Documentos\Atividade 2 Una\una-sdm-lista-02\obj\Debug\net10.0\una-sdm-lista-02.csproj.CoreCompileInputs.cache
